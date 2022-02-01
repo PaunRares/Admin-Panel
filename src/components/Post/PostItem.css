@@ -1,0 +1,10 @@
+.PostItem {
+    border: solid grey 1px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 70%;
+    text-align: start;
+}
+.PostItem p {
+    font-size: 12px;
+}

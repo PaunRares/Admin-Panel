@@ -1,0 +1,16 @@
+.FormInput  span {
+    font-size: 12px;
+    color: red;
+    display: none;
+}
+.FormInput input:invalid[focus="true"] ~ span {
+    display: block;
+}
+.FormInput input {
+    margin-bottom: 1rem;
+    border: solid black 1px;
+}
+.FormInput input:invalid[focus="true"] {
+    border: solid red 1px;
+    margin-bottom: 0;
+}

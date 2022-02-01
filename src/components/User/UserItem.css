@@ -1,0 +1,24 @@
+.UserItem {
+    max-width: 300px;
+    margin: auto; 
+    height: 300px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.UserItem > div:first-child {
+    background-color: #e4e6e7;
+}
+.gold-badge {
+    position: absolute;
+    background-color: #dda667;
+    border-radius: 20px;
+    padding: 0.25rem 0.7rem;
+    top: 10px;
+    right: 20px;
+    color: white;
+    font-size: 13px;  
+}
+.UserItem button {
+    width: 30%;
+}
+  

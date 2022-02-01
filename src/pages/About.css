@@ -1,0 +1,6 @@
+.About li {
+    list-style-type: none;
+    font-size: 1rem;
+    padding: 5px;
+    color: rgb(80, 77, 77);
+}

@@ -1,0 +1,24 @@
+.Home {
+    text-align: center;
+    height: 100%;
+}
+.Home .btn-home button {
+    width: 48%;
+}
+
+.Home .footer {
+    background-color:#eaeaea;
+    width: 100%;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 20px 6px;
+}
+
+.Home .actions-container {
+    width: 300px;
+    margin: auto;
+}
+.Home h1 {
+    font-size: 3rem;
+}
+.Home .footer input {
+    cursor: pointer;
+}
