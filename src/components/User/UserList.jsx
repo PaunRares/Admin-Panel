@@ -1,6 +1,7 @@
 import React from 'react';
 import UserItem from './UserItem';
 import profileImage from '../../assets/images/profile-image.png';
+import './UserList.css'
 
 function UserList(props) {
   const {users} = props;
